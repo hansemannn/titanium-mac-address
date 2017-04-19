@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 3
+architectures: armeabi-v7a x86
+description: titanium-mac-address
+author: Hans Knoechel
+license: MIT
+copyright: Copyright (c) 2017 by Hans Knoechel
+
+# these should not be edited
+name: titanium-mac-address
+moduleid: ti.macaddresss
+guid: 9f85414c-6655-4a15-b277-4efaeb888fd3
+platform: android
+minsdk: 6.0.0
